@@ -1,0 +1,7 @@
+client/package-lock.json
+client/node_modules/
+client/.expo/
+client/android/
+client/dist/
+client/.env
+server/.env
